@@ -6,7 +6,7 @@ http://soccer-movies.herokuapp.com/
 
 # テスト用アカウント
 メールアドレス：demo@mail.com</br>
-パスワード：
+パスワード：demodemo
 
 # 使用技術
 ・PHP</br>
