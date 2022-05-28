@@ -5,8 +5,8 @@ http://soccer-movies.herokuapp.com/
 サッカーのプレー動画を共有するアプリケーション
 
 # テスト用アカウント
-メールアドレス：demo@gmail.com</br>
-パスワード：pa123456
+メールアドレス：demo@mail.com</br>
+パスワード：
 
 # 使用技術
 ・PHP</br>
